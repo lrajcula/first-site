@@ -1,0 +1,20 @@
+h1 {
+	color: #9A0B30;
+	font: 22px helvetica, sans-serif;
+	font-style: oblique;
+}
+h2{
+	color: #0C3363;
+	font: 16px georgia, serif;
+	font-style: bold;
+}
+body{
+	background-color: #EAEAEA;
+	font: 12px helvetica, sans-serif;
+}
+ul{
+	color: #526570;
+	list-style-type: circle;
+	list-style-position: inside;
+	list-style-image: url(massachusetts_icon.png);
+}
